@@ -131,7 +131,7 @@ app.use("/api/settings", settingsRoutes);
 
 // CHANGE THIS PATH ACCORDING TO YOUR HOSTINGER DOMAIN
 const FRONTEND_PATH =
-  "/home/u123456789/domains/yourdomain.com/public_html";
+  "/home/u113860049/domains/surakshasanghnewstv.com/public_html";
 
 // Serve React static files
 app.use(express.static(FRONTEND_PATH));
